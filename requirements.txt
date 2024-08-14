@@ -1,0 +1,7 @@
+uvicorn
+pyngrok
+nest_asyncio
+fastapi
+numpy
+pillow
+tensorflow
